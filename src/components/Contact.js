@@ -1,18 +1,29 @@
 import './Contact.sass'
+import React from 'react'
 import facebook from './img/facebook-black.png'
 import instagram from './img/insta-black.png'
+import Map from './map/Map'
+
+const location = {
+    address: '1600 Amphitheatre Parkway, Mountain View, california.',
+    lat: 37.42216,
+    lng: -122.08427,
+}
 
 export default function Contact() {
+    
   return (
     <>
         <div className='logo'>
             <div className='logo__txt'>CONTACT</div>
         </div>
         <div className='contact'>
-        <div className='contact__map'></div>
+        <div className='contact__map'>
+        <Map location={location} zoomLevel={17} />
+        </div>
         <div className='contact__info'>
             <div className='contact__info__title'>
-                SHINEFACTORY
+                SHINE FACTORY
             </div>
             <div className='contact__info__address'>
                 Andrzej Drzewiecki <br />

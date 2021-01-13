@@ -31,3 +31,19 @@
 a
     color: white
     text-decoration: none
+
+@media (max-width: 1000px)
+    .menu
+        height: 50px
+        justify-content: space-evenly
+
+        &__button
+            width: 25vw
+            display: flex
+            align-items: center
+
+            &:last-child 
+                margin-right: 0
+            img
+                height: 30px
+                margin-left: calc(12.5vw - 15px)
