@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/carshine/static/css/main.1ba82210.chunk.css",
-    "main.js": "/carshine/static/js/main.7221f416.chunk.js",
-    "main.js.map": "/carshine/static/js/main.7221f416.chunk.js.map",
+    "main.css": "/carshine/static/css/main.faf9ee66.chunk.css",
+    "main.js": "/carshine/static/js/main.e04939fb.chunk.js",
+    "main.js.map": "/carshine/static/js/main.e04939fb.chunk.js.map",
     "runtime-main.js": "/carshine/static/js/runtime-main.d81d82a9.js",
     "runtime-main.js.map": "/carshine/static/js/runtime-main.d81d82a9.js.map",
     "static/css/2.55d8add8.chunk.css": "/carshine/static/css/2.55d8add8.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.2d6c753a.chunk.js.map": "/carshine/static/js/2.2d6c753a.chunk.js.map",
     "index.html": "/carshine/index.html",
     "static/css/2.55d8add8.chunk.css.map": "/carshine/static/css/2.55d8add8.chunk.css.map",
-    "static/css/main.1ba82210.chunk.css.map": "/carshine/static/css/main.1ba82210.chunk.css.map",
+    "static/css/main.faf9ee66.chunk.css.map": "/carshine/static/css/main.faf9ee66.chunk.css.map",
     "static/js/2.2d6c753a.chunk.js.LICENSE.txt": "/carshine/static/js/2.2d6c753a.chunk.js.LICENSE.txt",
     "static/media/1.8e415b81.jpeg": "/carshine/static/media/1.8e415b81.jpeg",
     "static/media/10.2b14c9ab.jpeg": "/carshine/static/media/10.2b14c9ab.jpeg",
@@ -50,7 +50,7 @@
     "static/js/runtime-main.d81d82a9.js",
     "static/css/2.55d8add8.chunk.css",
     "static/js/2.2d6c753a.chunk.js",
-    "static/css/main.1ba82210.chunk.css",
-    "static/js/main.7221f416.chunk.js"
+    "static/css/main.faf9ee66.chunk.css",
+    "static/js/main.e04939fb.chunk.js"
   ]
 }
