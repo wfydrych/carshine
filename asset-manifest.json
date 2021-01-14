@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carshine/static/css/main.faf9ee66.chunk.css",
-    "main.js": "/carshine/static/js/main.e04939fb.chunk.js",
-    "main.js.map": "/carshine/static/js/main.e04939fb.chunk.js.map",
+    "main.css": "/carshine/static/css/main.ef3f4898.chunk.css",
+    "main.js": "/carshine/static/js/main.6c4c9771.chunk.js",
+    "main.js.map": "/carshine/static/js/main.6c4c9771.chunk.js.map",
     "runtime-main.js": "/carshine/static/js/runtime-main.d81d82a9.js",
     "runtime-main.js.map": "/carshine/static/js/runtime-main.d81d82a9.js.map",
     "static/css/2.55d8add8.chunk.css": "/carshine/static/css/2.55d8add8.chunk.css",
-    "static/js/2.2d6c753a.chunk.js": "/carshine/static/js/2.2d6c753a.chunk.js",
-    "static/js/2.2d6c753a.chunk.js.map": "/carshine/static/js/2.2d6c753a.chunk.js.map",
+    "static/js/2.a2bd4b9c.chunk.js": "/carshine/static/js/2.a2bd4b9c.chunk.js",
+    "static/js/2.a2bd4b9c.chunk.js.map": "/carshine/static/js/2.a2bd4b9c.chunk.js.map",
     "index.html": "/carshine/index.html",
     "static/css/2.55d8add8.chunk.css.map": "/carshine/static/css/2.55d8add8.chunk.css.map",
-    "static/css/main.faf9ee66.chunk.css.map": "/carshine/static/css/main.faf9ee66.chunk.css.map",
-    "static/js/2.2d6c753a.chunk.js.LICENSE.txt": "/carshine/static/js/2.2d6c753a.chunk.js.LICENSE.txt",
+    "static/css/main.ef3f4898.chunk.css.map": "/carshine/static/css/main.ef3f4898.chunk.css.map",
+    "static/js/2.a2bd4b9c.chunk.js.LICENSE.txt": "/carshine/static/js/2.a2bd4b9c.chunk.js.LICENSE.txt",
     "static/media/1.8e415b81.jpeg": "/carshine/static/media/1.8e415b81.jpeg",
     "static/media/10.2b14c9ab.jpeg": "/carshine/static/media/10.2b14c9ab.jpeg",
     "static/media/11.e25941dd.jpeg": "/carshine/static/media/11.e25941dd.jpeg",
@@ -40,7 +40,10 @@
     "static/media/7.75e35b31.jpeg": "/carshine/static/media/7.75e35b31.jpeg",
     "static/media/8.841d389a.jpeg": "/carshine/static/media/8.841d389a.jpeg",
     "static/media/9.fcbab12f.jpeg": "/carshine/static/media/9.fcbab12f.jpeg",
+    "static/media/contact_pic.3866c51e.png": "/carshine/static/media/contact_pic.3866c51e.png",
     "static/media/Contact.sass": "/carshine/static/media/hero.4db87eac.png",
+    "static/media/logo_footer.89472e38.png": "/carshine/static/media/logo_footer.89472e38.png",
+    "static/media/logo_menu.19b59725.png": "/carshine/static/media/logo_menu.19b59725.png",
     "static/media/section1_1.4f54247d.png": "/carshine/static/media/section1_1.4f54247d.png",
     "static/media/section1_2.6047e8ef.png": "/carshine/static/media/section1_2.6047e8ef.png",
     "static/media/section1_3.e2fc8de5.png": "/carshine/static/media/section1_3.e2fc8de5.png",
@@ -49,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.d81d82a9.js",
     "static/css/2.55d8add8.chunk.css",
-    "static/js/2.2d6c753a.chunk.js",
-    "static/css/main.faf9ee66.chunk.css",
-    "static/js/main.e04939fb.chunk.js"
+    "static/js/2.a2bd4b9c.chunk.js",
+    "static/css/main.ef3f4898.chunk.css",
+    "static/js/main.6c4c9771.chunk.js"
   ]
 }
