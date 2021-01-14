@@ -8,7 +8,6 @@ export default function Main() {
     <>
         <div className='main'></div>
         <div className='introduce'>
-            <div className='corner'></div>
             <div className='introduce__title'>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING</div>
             <div className='introduce__advertbox'>
                 <div className='introduce__advertbox__advert'>
@@ -30,7 +29,6 @@ export default function Main() {
                     </div>
                 </div>
             </div>
-            <div className='corner'></div>
         </div>
         <div className='offer'>
             <div className='offer__backgr'>
