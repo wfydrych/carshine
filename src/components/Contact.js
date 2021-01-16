@@ -3,7 +3,8 @@ import React from 'react'
 import facebook from './img/facebook-black.png'
 import instagram from './img/insta-black.png'
 import Map from './map/Map'
-import pic from './img/contact_pic.png'
+// import pic from './img/contact_pic.png'
+import pic from './img/logo_menu.png'
 
 const location = {
     address: '1600 Amphitheatre Parkway, Mountain View, california.',

@@ -35,7 +35,7 @@ export default function Footer() {
               <img alt='instagram' src={instagram} />
           </div>
       </div>
-      <div className='author'>Coded by Wojciech Fydrych, designed by Dawid Wojtyczka, Copyright 2021</div>
+      <div className='author'>Coded by <a target="_blank" href="http://wojciechfydrych.com/">Wojciech Fydrych</a>, designed by Dawid Wojtyczka, Copyright 2021</div>
     </>
   )
 }

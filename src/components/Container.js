@@ -21,6 +21,10 @@ export default function Topbar() {
                     render = {text => <Main></Main>}>
                 </Route>
                 <Route 
+                    exact path='/carshine' 
+                    render = {text => <Main></Main>}>
+                </Route>
+                <Route 
                     path='/main' 
                     render = {text => <Main></Main>}>
                 </Route>
