@@ -64,7 +64,7 @@ Ihr Fahrzeug verdient die beste Pflege mit hochwertigen Produkten. Wir stehen f�
                     <div className='offer__textbox__container__box'>
                         <div className='offer__textbox__container__box__rectangle'></div>
                         <div className='offer__textbox__container__box__text'>
-                        Wir achten bei jeder Dienstleistung auf kompromisslose Qualit채t und sind jederzeit f체r Sie da, wenn Sie eine individuelle Beratung w체nschen. Wir sind dein kompetenter Partner, wenn es um die Pflege deines Autos geht.
+                        Wir achten bei jeder Dienstleistung auf kompromisslose Qualit채t und sind jederzeit f체r Sie da, wenn Sie eine individuelle Beratung w체nschen. Wir sind Ihr kompetenter Partner, wenn es um die Pflege deines Autos geht.
                         </div>
                     </div>
                 </div>

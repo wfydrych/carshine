@@ -13,7 +13,6 @@ export default function Contact() {
         </div>
         <div className='contact'>
             <div className='contact__map'>
-                {/* <Map location={location} zoomLevel={17} /> */}
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2697.4467529120434!2d8.96325941602051!3d47.4617229791754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aeb2d92234bf7%3A0x57289272ac772615!2sHilagstrasse%2026%2C%208360%20Eschlikon!5e0!3m2!1sen!2sch!4v1641487131797!5m2!1sen!2sch"
                     title="ShineFactory"

@@ -27,6 +27,20 @@ export default function Pricing() {
                         Wachs/Keramikversieglung für Neuwagen <br />
                         <strong>Ab 200 CHF</strong><br /><br />
                     </div>
+                    <div className='pricing__container__pricebox__price'>
+                        SONDERFAHRZEUGE WIE Z.B BOOTE, MOTORRÄDER, TRAKTOREN, HELIKOPTER USW.
+                    </div>
+                    <div className='pricing__container__pricebox__description'>
+                        Bei diesen Sonderfahrzeugen können wir erst nach Besichtigung ein verbindliches Angebot erstellen.<br />
+                        <strong>Preis auf Anfrage</strong><br /><br />
+                    </div>
+                    <div className='pricing__container__pricebox__price'>
+                        INDIVIDUELLES PAKET
+                    </div>
+                    <div className='pricing__container__pricebox__description'>
+                        Bei einem individuellen Packet können sie uns gerne eine Nachricht senden oder telefonisch kontaktieren damit wir ein maßgeschneidertes Packet für ihr Auto erstellen können. <br />
+                        <strong>Preis auf Anfrage</strong><br /><br />
+                    </div>
                 </div>
                 <div className='pricing__container__pricebox'>
                     <div className='pricing__container__pricebox__price'>
@@ -99,17 +113,7 @@ export default function Pricing() {
                         Exoten und Sportwagen<br />
                         <strong>Preis auf Anfrage</strong><br /><br />
                     </div>
-                    <div className='pricing__container__pricebox__price'>
-                        SONDERFAHRZEUGE WIE Z.B BOOTE, MOTORRÄDER, TRAKTOREN, HELIKOPTER USW.
-                    </div>
-                    <div className='pricing__container__pricebox__description'>
-                        Bei diesen Sonderfahrzeugen können wir erst nach Besichtigung ein verbindliches Angebot erstellen.<br />
-                        <strong>Preis auf Anfrage</strong><br />
-                    </div>
                 </div>
-            </div>
-            <div className='pricing__individual'>
-                Bei einem individuellen Packet können sie uns gerne eine Nachricht senden oder telefonisch kontaktieren damit wir ein maßgeschneidertes Packet für ihr Auto erstellen können. <br /><strong>Preis auf Anfrage</strong>
             </div>
         </div>
     </>
