@@ -31,16 +31,16 @@ export default function Menu() {
                 <>
                     <img alt='logo' src={logo} className='menu__logo' />
                     <NavLink to='/main'>
-                        <div className='menu__button'>MAIN PAGE</div>
+                        <div className='menu__button'>HAUPTSEITE</div>
                     </NavLink>
                     <NavLink to='/gallery'>
-                        <div className='menu__button'>GALLERY</div>
+                        <div className='menu__button'>GALERIE</div>
                     </NavLink>
                     <NavLink to='/pricing'>
-                        <div className='menu__button'>PRICING</div>
+                        <div className='menu__button'>PREISE</div>
                     </NavLink>
                     <NavLink to='/contact'>
-                        <div className='menu__button'>CONTACT</div>
+                        <div className='menu__button'>KONTAKT</div>
                     </NavLink>
                 </>
               )

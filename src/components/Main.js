@@ -52,7 +52,7 @@ Ihr Fahrzeug verdient die beste Pflege mit hochwertigen Produkten. Wir stehen f�
                     <div className='offer__textbox__container__box'>
                         <div className='offer__textbox__container__box__rectangle'></div>
                         <div className='offer__textbox__container__box__text'>
-                        Shinefactory steht dafür, dass ihr Fahrzeug – egal ob Kleinwagen, Sportwagen oder aber auch Flugzeug – wieder im richtigen Licht steht und sich Andere nach Ihnen und Ihrem Fahrzeug umgucken. Dafür sorgen wir, Jimmy Strzecha und kim Tyszlak, höchstpersönlich.
+                        Shinefactory steht dafür, dass ihr Fahrzeug – egal ob Kleinwagen, Sportwagen oder aber auch Flugzeug – wieder im richtigen Licht steht und sich Andere nach Ihnen und Ihrem Fahrzeug umgucken. Dafür sorgen wir, Jimmy Strzecha und Kim Tyszlak, höchstpersönlich.
                         </div>
                     </div>
                     <div className='offer__textbox__container__box'>
@@ -71,7 +71,7 @@ Ihr Fahrzeug verdient die beste Pflege mit hochwertigen Produkten. Wir stehen f�
             </div>
         </div>
         <div className='bottomtext'>
-            CAR SHINE FACTORY
+            SHINEFACTORY
         </div>
     </>
   )

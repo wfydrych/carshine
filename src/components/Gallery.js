@@ -34,10 +34,10 @@ export default function Gallery() {
   return (
       <>
         <div className='logo'>
-            <div className='logo__txt'>GALLERY</div>
+            <div className='logo__txt'>GALERIE</div>
         </div>
         <div className='gallery'>
-            <div className='gallery__title'>LOREM IPSUM</div>
+            <div className='gallery__title'>GALERIE</div>
             <div className='gallery__container'>
                 <div className='gallery__container__div'>
                     <Carousel dynamicHeight={true} showArrows={true}>

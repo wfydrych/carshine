@@ -8,12 +8,12 @@ export default function Topbar() {
   return (
     <div className='topbar'>
         <div className='topbar__contact'>
-            <span><img alt='phone' src={phone} /> +41 700 700 700</span>
-            <span><img alt='mail' src={mail} /> carshine@gmail.com</span>
+            <span><img alt='phone' src={phone} /> 078 302 47 11</span>
+            <span><img alt='mail' src={mail} /> info@shinefactorych.com</span>
         </div>
         <div className='topbar__social'>
-            <img alt='facebook' src={facebook} />
-            <img alt='instagram' src={instagram} />
+            <a href='https://www.facebook.com/shinefactorych' target='_blank' rel='noreferrer' alt='facebook'><img alt='facebook' src={facebook} /></a>
+            <a href='https://www.instagram.com/shinefactorych/' target='_blank' rel='noreferrer' alt='instagram'><img alt='instagram' src={instagram} /></a>
         </div>
     </div>
   )
