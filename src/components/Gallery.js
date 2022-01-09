@@ -30,7 +30,7 @@ import p26 from './img/gallery/26.jpeg'
 import p27 from './img/gallery/27.jpeg'
 import p28 from './img/gallery/28.jpeg'
 
-export default function Gallery() {
+const Gallery = () => {
   return (
       <>
         <div className='logo'>
@@ -148,3 +148,5 @@ export default function Gallery() {
     </>
   )
 }
+
+export default Gallery

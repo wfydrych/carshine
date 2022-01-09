@@ -6,7 +6,7 @@ import logo from './img/logo_footer.png'
 import facebook from './img/facebook.png'
 import instagram from './img/instagram.png'
 
-export default function Footer() {
+const Footer = () => {
   return (
     <>
       <div className='footer'>
@@ -39,3 +39,5 @@ export default function Footer() {
     </>
   )
 }
+
+export default Footer

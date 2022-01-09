@@ -6,7 +6,7 @@ import Gallery from './Gallery'
 import Pricing from './Pricing'
 import Contact from './Contact'
 
-export default function Topbar() {
+const Topbar = () => {
   return (
     <div>
         <Switch>
@@ -45,3 +45,5 @@ export default function Topbar() {
     </div>
   )
 }
+
+export default Topbar

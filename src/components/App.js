@@ -5,7 +5,7 @@ import Menu from './Menu'
 import Container from './Container'
 import Footer from './Footer'
 
-export default function App() {
+const App = () => {
   return (
     <div className='app'>
       <BrowserRouter>
@@ -18,3 +18,4 @@ export default function App() {
   )
 }
 
+export default App

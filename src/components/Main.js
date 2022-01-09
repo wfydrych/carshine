@@ -3,7 +3,7 @@ import ad1 from './img/section1_1.png'
 import ad2 from './img/section1_2.png'
 import ad3 from './img/section1_3.png'
 
-export default function Main() {
+const Main = () => {
   return (
     <>
         <div className='main'></div>
@@ -14,7 +14,7 @@ export default function Main() {
                     <img alt='pic1' src={ad1} />
                     <div className='introduce__advertbox__advert__text'>
                         <div><h2>Autopflege</h2></div>
-Ihr Fahrzeug verdient die beste Pflege mit hochwertigen Produkten. Wir stehen für professionelle Dienstleistung in der Autopflege und Aufbereitung bis zur Keramikversieglung.
+                    Ihr Fahrzeug verdient die beste Pflege mit hochwertigen Produkten. Wir stehen für professionelle Dienstleistung in der Autopflege und Aufbereitung bis zur Keramikversieglung.
                     </div>
                 </div>
                 <div className='introduce__advertbox__advert'>
@@ -76,3 +76,5 @@ Ihr Fahrzeug verdient die beste Pflege mit hochwertigen Produkten. Wir stehen f�
     </>
   )
 }
+
+export default Main

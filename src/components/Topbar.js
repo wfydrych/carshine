@@ -4,7 +4,7 @@ import mail from './img/mail.png'
 import facebook from './img/facebook.png'
 import instagram from './img/instagram.png'
 
-export default function Topbar() {
+const Topbar = () => {
   return (
     <div className='topbar'>
         <div className='topbar__contact'>
@@ -18,3 +18,5 @@ export default function Topbar() {
     </div>
   )
 }
+
+export default Topbar

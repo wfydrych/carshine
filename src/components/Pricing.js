@@ -1,6 +1,6 @@
 import './Pricing.sass'
 
-export default function Pricing() {
+const Pricing = () => {
   return (
     <>
         <div className='logo'>
@@ -119,3 +119,5 @@ export default function Pricing() {
     </>
   )
 }
+
+export default Pricing

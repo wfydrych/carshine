@@ -4,8 +4,7 @@ import facebook from './img/facebook-black.png'
 import instagram from './img/insta-black.png'
 import pic from './img/logo_menu.png'
 
-export default function Contact() {
-    
+const Contact = () => {
   return (
     <>
         <div className='logo'>
@@ -48,3 +47,5 @@ export default function Contact() {
     </>
   )
 }
+
+export default Contact

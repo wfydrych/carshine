@@ -7,7 +7,7 @@ import Price_m from './img/price-m.png'
 import Phone_m from './img/phone-m.png'
 import logo from './img/logo_menu.png'
 
-export default function Menu() {
+const Menu = () => {
   return (
     <div className='menu'>
         <Media query={{ maxWidth: 1000 }}>
@@ -49,3 +49,5 @@ export default function Menu() {
     </div>
   )
 }
+
+export default Menu
